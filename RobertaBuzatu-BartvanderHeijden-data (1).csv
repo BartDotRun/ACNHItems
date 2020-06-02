@@ -1,0 +1,208 @@
+,Name,DIY,Body Customize,Sell,Source,Interact,Outdoor,Catalog
+0,campfire,Yes,No,30,Crafting,Yes,Yes,Not for sale
+1,cardboard chair,Yes,Yes,60,Crafting,Yes,No,Not for sale
+2,beach towel,No,No,95,Nook's Cranny,Yes,Yes,For sale
+3,clothesline,Yes,No,100,Crafting,No,Yes,Not for sale
+4,cardboard sofa,Yes,Yes,120,Crafting,Yes,No,Not for sale
+5,cone,No,No,157,Nook's Cranny,No,Yes,For sale
+6,floor seat,No,No,182,Nook's Cranny,Yes,No,For sale
+7,lawn chair,No,No,190,Nook's Cranny,Yes,Yes,For sale
+8,low screen,No,No,217,Nook's Cranny,No,No,For sale
+9,campfire cookware,No,No,225,Nook's Cranny,Yes,Yes,For sale
+10,beach chair,No,No,230,Nook's Cranny,Yes,Yes,For sale
+11,folding chair,No,No,230,Nook's Cranny,Yes,No,For sale
+12,digital scale,No,No,232,Nook's Cranny,No,No,For sale
+13,cardboard bed,Yes,Yes,240,Crafting,Yes,No,Not for sale
+14,cardboard table,Yes,Yes,240,Crafting,No,No,Not for sale
+15,garbage can,No,No,240,Nook's Cranny,Yes,Yes,For sale
+16,medium cardboard boxes,Yes,No,240,Crafting,No,No,Not for sale
+17,cypress plant,No,No,250,Nook's Cranny,No,Yes,For sale
+18,garbage bin,No,No,250,Nook's Cranny,Yes,Yes,For sale
+19,garbage pail,No,No,250,Nook's Cranny,Yes,Yes,For sale
+20,mic stand,No,No,250,Nook's Cranny,No,No,For sale
+21,air circulator,No,No,275,Nook's Cranny,Yes,Yes,For sale
+22,clothesline pole,No,No,275,Nook's Cranny,No,Yes,For sale
+23,diner counter chair,No,No,275,Nook's Cranny,Yes,No,For sale
+24,exercise ball,No,No,275,Nook's Cranny,Yes,No,For sale
+25,inflatable sofa,No,No,275,Nook's Cranny,Yes,Yes,For sale
+26,kitty litter box,No,No,275,Nook's Cranny,No,No,For sale
+27,baby chair,No,No,300,Nook's Cranny,Yes,No,For sale
+28,birthday sign,No,Yes,300,Birthday,No,No,Not for sale
+29,birthday table,No,Yes,300,Birthday,Yes,No,Not for sale
+30,fan palm,No,No,300,Nook's Cranny,No,No,For sale
+31,fishing-rod stand,No,Yes,300,C.J.,No,No,Not for sale
+32,large cardboard boxes,Yes,No,300,Crafting,No,No,Not for sale
+33,arcade seat,No,No,325,Nook's Cranny,Yes,No,For sale
+34,hammock,No,No,325,Nook's Cranny,Yes,Yes,For sale
+35,mini fridge,No,No,325,Nook's Cranny,Wardrobe,No,For sale
+36,floor lamp,No,No,350,Nook's Cranny,Yes,No,For sale
+37,garden lantern,No,No,350,Nook's Cranny,Yes,Yes,For sale
+38,hose reel,No,No,350,Nook's Cranny,No,Yes,For sale
+39,log stakes,Yes,Yes,360,Crafting,No,Yes,Not for sale
+40,diner chair,No,No,400,Nook's Cranny,Yes,No,For sale
+41,diner mini table,No,No,400,Nook's Cranny,No,No,For sale
+42,director's chair,No,No,400,Nook's Cranny,Yes,Yes,For sale
+43,futon,No,No,400,Nook's Cranny,Yes,No,For sale
+44,hay bed,Yes,Yes,400,Crafting,Yes,Yes,Not for sale
+45,fan,No,No,425,Nook's Cranny,Yes,No,For sale
+46,monstera,No,No,425,Nook's Cranny,No,No,For sale
+47,mum cushion,Yes,Yes,440,Crafting,Yes,No,Not for sale
+48,artisanal bug cage,No,No,450,Flick,Yes,Yes,Not for sale
+49,bidet,No,No,450,Nook's Cranny,Yes,No,For sale
+50,flashy-flower sign,No,No,450,Nook's Cranny,No,Yes,For sale
+51,fresh cooler,No,No,450,C.J.,Yes,Yes,Not for sale
+52,go board,No,No,450,Nook's Cranny,No,No,For sale
+53,menu chalkboard,No,No,450,Nook's Cranny,No,Yes,For sale
+54,folding floor lamp,No,No,475,Nook's Cranny,Yes,No,For sale
+55,garden faucet,No,No,475,Nook's Cranny,Yes,Yes,For sale
+56,handcart,No,No,475,Nook's Cranny,No,Yes,For sale
+57,bamboo stopblock,Yes,Yes,480,Crafting,No,Yes,Not for sale
+58,grass standee,Yes,Yes,480,Crafting,No,No,Not for sale
+59,log stool,Yes,Yes,480,Crafting,Yes,Yes,Not for sale
+60,basic teacher's desk,No,No,500,Nook's Cranny,No,No,For sale
+61,floor light,No,No,550,Nook's Cranny,Yes,Yes,For sale
+62,modern office chair,No,No,550,Nook's Cranny,Yes,No,For sale
+63,cacao tree,No,No,575,Nook's Cranny,No,No,For sale
+64,foosball table,No,No,575,Nook's Cranny,Yes,No,For sale
+65,ironing board,No,No,575,Nook's Cranny,No,No,For sale
+66,Mama bear,No,No,575,Nook's Cranny,No,No,For sale
+67,angled signpost,Yes,Yes,600,Crafting,No,Yes,Not for sale
+68,green-leaf pile,Yes,No,600,Crafting,Yes,Yes,Not for sale
+69,hedge standee,Yes,Yes,600,Crafting,No,No,Not for sale
+70,log bench,Yes,Yes,600,Crafting,Yes,Yes,Not for sale
+71,barbecue,No,No,625,Nook's Cranny,Yes,Yes,For sale
+72,lecture-hall desk,No,No,625,Nook's Cranny,No,No,For sale
+73,chalkboard,No,No,650,Nook's Cranny,No,No,For sale
+74,box corner sofa,No,No,675,Nook's Cranny,Yes,No,For sale
+75,box sofa,No,No,675,Nook's Cranny,Yes,No,For sale
+76,drying rack,No,No,675,Nook's Cranny,No,Yes,For sale
+77,candy machine,No,No,700,Nook's Cranny,Yes,No,For sale
+78,colorful wheel,No,No,725,Nook's Cranny,Yes,No,For sale
+79,lawn mower,No,No,725,Nook's Cranny,No,Yes,For sale
+80,cat tower,No,No,750,Nook's Cranny,Yes,No,For sale
+81,cute tea table,No,No,750,Nook's Cranny,No,No,For sale
+82,fish-drying rack,No,Yes,750,C.J.,No,Yes,Not for sale
+83,Mr. Flamingo,No,No,750,Nook's Cranny,No,Yes,For sale
+84,Mrs. Flamingo,No,No,750,Nook's Cranny,No,Yes,For sale
+85,clothes closet,No,No,775,Nook's Cranny,Yes,No,For sale
+86,bamboo stool,Yes,Yes,800,Crafting,Yes,Yes,Not for sale
+87,kimono stand,No,No,800,Nook's Cranny,No,No,For sale
+88,mush low stool,Yes,Yes,800,Crafting,Yes,Yes,Not for sale
+89,bathroom sink,No,No,825,Nook's Cranny,Yes,No,For sale
+90,clay furnace,No,No,825,Nook's Cranny,Yes,No,For sale
+91,lecture-hall bench,No,No,825,Nook's Cranny,Yes,No,For sale
+92,birdhouse,Yes,Yes,840,Crafting,No,Yes,Not for sale
+93,alto saxophone,No,No,850,Nook's Cranny,Yes,No,For sale
+94,anatomical model,No,No,875,Nook's Cranny,No,No,For sale
+95,cute floor lamp,No,No,875,Nook's Cranny,Yes,No,For sale
+96,diner sofa,No,No,875,Nook's Cranny,Yes,No,For sale
+97,freezer,No,No,875,Nook's Cranny,Yes,No,For sale
+98,gas range,No,No,875,Nook's Cranny,Yes,No,For sale
+99,birdbath,Yes,Yes,900,Crafting,No,Yes,Not for sale
+100,changing room,No,No,925,Nook's Cranny,Yes,No,For sale
+101,imperial low table,No,No,925,Nook's Cranny,No,No,For sale
+102,kotatsu,No,No,925,Nook's Cranny,No,No,For sale
+103,birdcage,Yes,Yes,960,Crafting,Yes,No,Not for sale
+104,clackercart,Yes,Yes,960,Crafting,No,No,Not for sale
+105,log chair,Yes,Yes,960,Crafting,Yes,No,Not for sale
+106,music stand,Yes,Yes,960,Crafting,No,No,Not for sale
+107,champion's pennant,No,No,975,Nook's Cranny,No,No,For sale
+108,diner neon sign,No,No,975,Nook's Cranny,Yes,No,For sale
+109,elephant slide,No,No,1050,Nook's Cranny,No,No,For sale
+110,climbing wall,No,No,1075,Nook's Cranny,No,Yes,For sale
+111,cute chair,No,No,1075,Nook's Cranny,Yes,No,For sale
+112,double sofa,No,No,1075,Nook's Cranny,Yes,No,For sale
+113,marimba,No,No,1075,Nook's Cranny,Yes,No,For sale
+114,mountain standee,Yes,Yes,1080,Crafting,No,No,Not for sale
+115,electric kick scooter,No,No,1100,Nook's Cranny,Yes,Yes,For sale
+116,bamboo basket,Yes,Yes,1120,Crafting,No,No,Not for sale
+117,automatic washer,No,No,1125,Nook's Cranny,Yes,No,For sale
+118,Bunny Day festive balloons,Yes,No,1200,Crafting,No,No,Not for sale
+119,Bunny Day merry balloons,Yes,No,1200,Crafting,No,No,Not for sale
+120,Bunny Day stool,Yes,No,1200,Crafting,Yes,No,Not for sale
+121,exercise bike,No,No,1200,Nook's Cranny,Yes,No,For sale
+122,mush parasol,Yes,Yes,1200,Crafting,No,Yes,Not for sale
+123,bamboo speaker,Yes,Yes,1230,Crafting,Yes,No,Not for sale
+124,bonfire,Yes,No,1230,Crafting,Yes,Yes,Not for sale
+125,bunk bed,No,No,1250,Nook's Cranny,Yes,No,For sale
+126,imperial partition,No,No,1250,Nook's Cranny,No,No,For sale
+127,mountain bike,No,No,1275,Nook's Cranny,No,Yes,For sale
+128,bamboo bench,Yes,Yes,1280,Crafting,Yes,Yes,Not for sale
+129,bamboo floor lamp,Yes,Yes,1280,Crafting,Yes,No,Not for sale
+130,dartboard,No,No,1300,Nook's Cranny,Yes,No,For sale
+131,leaf campfire,Yes,Yes,1330,Crafting,Yes,Yes,Not for sale
+132,cute vanity,No,No,1350,Nook's Cranny,Yes,No,For sale
+133,anchor statue,No,Yes,1400,C.J.,No,Yes,Not for sale
+134,drum set,No,No,1400,Nook's Cranny,Yes,No,For sale
+135,festive tree,Yes,Yes,1400,Crafting,Yes,No,Not for sale
+136,jukebox,No,No,1400,Nook's Cranny,Yes,No,For sale
+137,destinations signpost,Yes,Yes,1440,Crafting,No,Yes,Not for sale
+138,log garden lounge,Yes,Yes,1440,Crafting,Yes,Yes,Not for sale
+139,fireplace,No,No,1475,Nook's Cranny,Yes,No,For sale
+140,diner counter table,No,No,1500,Nook's Cranny,No,No,For sale
+141,mush table,Yes,Yes,1520,Crafting,No,Yes,Not for sale
+142,blue corner,No,No,1525,Nook's Cranny,Yes,No,For sale
+143,leaf stool,Yes,Yes,1560,Crafting,Yes,No,Not for sale
+144,log decorative shelves,Yes,Yes,1560,Crafting,No,No,Not for sale
+145,Bunny Day table,Yes,No,1600,Crafting,No,No,Not for sale
+146,Bunny Day vanity,Yes,No,1600,Crafting,No,No,Not for sale
+147,Bunny Day wardrobe,Yes,No,1600,Crafting,Yes,No,Not for sale
+148,diner dining table,No,No,1600,Nook's Cranny,No,No,For sale
+149,mush lamp,Yes,Yes,1600,Crafting,Yes,Yes,Not for sale
+150,antique mini table,No,No,1675,Nook's Cranny,No,No,For sale
+151,mush log,Yes,Yes,1680,Crafting,No,Yes,Not for sale
+152,effects rack,No,No,1700,Nook's Cranny,No,No,For sale
+153,deer scare,Yes,Yes,1740,Crafting,Yes,Yes,Not for sale
+154,cute DIY table,No,No,1750,Nook's Cranny,Yes,No,For sale
+155,log dining table,Yes,Yes,1800,Crafting,No,No,Not for sale
+156,log round table,Yes,Yes,1800,Crafting,No,Yes,Not for sale
+157,mush partition,Yes,Yes,1800,Crafting,No,Yes,Not for sale
+158,cute wardrobe,No,No,1825,Nook's Cranny,Yes,No,For sale
+159,ironwood chair,Yes,Yes,1860,Crafting,Yes,No,Not for sale
+160,moai statue,No,No,1900,Gulliver,No,Yes,Not for sale
+161,log extra-long sofa,Yes,Yes,1920,Crafting,Yes,No,Not for sale
+162,loft bed with desk,No,No,1925,Nook's Cranny,Yes,No,For sale
+163,long bathtub,No,No,1950,Nook's Cranny,Yes,No,For sale
+164,butter churn,Yes,Yes,1980,Crafting,No,Yes,Not for sale
+165,cherry-blossom-petal pile,Yes,No,2000,Crafting,Yes,Yes,Not for sale
+166,bamboo partition,Yes,Yes,2020,Crafting,No,No,Not for sale
+167,doghouse,Yes,Yes,2040,Crafting,Yes,Yes,Not for sale
+168,barrel,Yes,No,2100,Crafting,No,Yes,Not for sale
+169,den chair,No,No,2175,Nook's Cranny,Yes,No,For sale
+170,natural garden chair,Yes,Yes,2220,Crafting,Yes,Yes,Not for sale
+171,garden rock,Yes,No,2250,Crafting,No,Yes,Not for sale
+172,iron garden chair,Yes,Yes,2250,Crafting,Yes,Yes,Not for sale
+173,iron hanger stand,Yes,Yes,2250,Crafting,No,No,Not for sale
+174,manhole cover,Yes,Yes,2250,Crafting,Yes,Yes,Not for sale
+175,DJ's turntable,No,No,2325,Nook's Cranny,Yes,No,For sale
+176,imperial chest,No,No,2325,Nook's Cranny,Yes,No,For sale
+177,bamboo doll,Yes,No,2400,Crafting,Yes,No,Not for sale
+178,bamboo shelf,Yes,Yes,2400,Crafting,No,No,Not for sale
+179,beekeeper's hive,Yes,Yes,2400,Crafting,No,Yes,Not for sale
+180,Bunny Day bed,Yes,No,2400,Crafting,Yes,No,Not for sale
+181,cute sofa,No,No,2400,Nook's Cranny,Yes,No,For sale
+182,apple chair,Yes,Yes,2480,Crafting,Yes,No,Not for sale
+183,antique chair,No,No,2500,Nook's Cranny,Yes,No,For sale
+184,den desk,No,No,2500,Nook's Cranny,No,No,For sale
+185,high-end stereo,No,No,2500,Nook's Cranny,Yes,No,For sale
+186,mossy garden rock,Yes,No,2550,Crafting,No,Yes,Not for sale
+187,mini DIY workbench,Yes,Yes,2580,Crafting,Workbench,No,Not for sale
+188,cherry-blossom pond stone,Yes,No,2700,Crafting,No,Yes,Not for sale
+189,drinking fountain,Yes,Yes,2700,Crafting,Yes,Yes,Not for sale
+190,maple-leaf pond stone,Yes,No,2700,Crafting,No,Yes,Not for sale
+191,basketball hoop,No,No,2750,Nook's Cranny,No,Yes,For sale
+192,brick well,Yes,Yes,2800,Crafting,No,Yes,Not for sale
+193,blossom-viewing lantern,Yes,Yes,2880,Crafting,Yes,Yes,Not for sale
+194,flower stand,Yes,Yes,2880,Crafting,No,No,Not for sale
+195,illuminated present,Yes,Yes,2950,Crafting,Yes,Yes,Not for sale
+196,cute bed,No,No,3000,Nook's Cranny,Yes,No,For sale
+197,lily record player,Yes,Yes,3010,Crafting,Yes,No,Not for sale
+198,cosmos shower,Yes,Yes,3050,Crafting,Yes,No,Not for sale
+199,illuminated snowflakes,Yes,Yes,3150,Crafting,Yes,Yes,Not for sale
+200,bamboo noodle slide,Yes,No,3160,Crafting,Yes,Yes,Not for sale
+201,garden wagon,Yes,Yes,3180,Crafting,No,Yes,Not for sale
+202,big festive tree,Yes,Yes,3200,Crafting,Yes,Yes,Not for sale
+203,acoustic guitar,Yes,Yes,3210,Crafting,Yes,No,Not for sale
+204,cypress bathtub,No,No,3250,Nook's Cranny,No,No,For sale
+205,loom,No,No,3250,Nook's Cranny,Yes,No,For sale
+206,natural garden table,Yes,Yes,3330,Crafting,No,Yes,Not for sale
